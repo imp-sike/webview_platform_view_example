@@ -1,16 +1,14 @@
 # webview_platform_view_example
 
-A new Flutter project.
+In this project, I tried to re implement the two basic webview_flutter android only
+functionalities like:
 
-## Getting Started
+1. Creating a WebView Widget with the help of Virtual Platform Views.
+2. Passing new url using MethodChannel
 
-This project is a starting point for a Flutter application.
+TODO:
+1. IOS implementation (I have no mac 😔)
+2. Web Implemantation
+3. Linux Implementation
+4. Windows Implementation 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
